@@ -25,7 +25,7 @@ ffmpeg -version
 
 ```bash
 git clone https://github.com/ProgrammingShell/pdf-to-mp3.git
-cd pdf-to-speech
+cd pdf-to-mp3
 python -m venv venv
 ```
 
